@@ -3,12 +3,11 @@ url: hhttps://glemniai.github.io  # the base hostname and protocol for your site
 baseurl: /lesfrancaisaumea/  
 
 # Site
-name: "Memoirs"
-title: "Memoirs"
+name: "Les francais a Umea"
+title: "Les francais a umea"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
