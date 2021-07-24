@@ -3,7 +3,7 @@ layout: post
 title:  "Le Top des meilleurs restaurants d'Umeå"
 categories: [ manger et boire ]
 tags: [ restaurant ]
-image: assets/images/articlecover/top-meilleurs-restaurants.jpeg/
+image: assets/images/articlecover/top-meilleurs-restaurants.jpeg
 ---
 The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle.
 
