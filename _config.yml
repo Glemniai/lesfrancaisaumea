@@ -1,11 +1,11 @@
 domain: https://glemniai.github.io/lesfrancaisaumea/     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: hhttps://glemniai.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /lesfrancaisaumea/  
+baseurl: /lesfrancaisaumea
 
 # Site
-name: "Les francais a Umea"
-title: "Les francais a umea"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Les francais à Umeå"
+title: "Les francais à Umeå"
+description: "Bienvenue dans la ville la plus jeune et la plus culturelle du nord de la Suède !"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'UA-xxxxxxxx-1'
