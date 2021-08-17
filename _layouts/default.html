@@ -51,7 +51,12 @@
     <ul>
         <h3>Navigation</h3>
         <li><a href="{{ site.baseurl }}/">Accueil</a></li>
+        <li><a href="{{ site.baseurl }}/categories#actualité">Actualités</a></li>
         <li><a href="{{ site.baseurl }}/categories#manger-et-boire">Manger et boire <span class="badge badge-primary">nouveau</span></a></li>
+        <li><a href="{{ site.baseurl }}/categories#sortir">Sortir</a></li>
+        <li><a href="{{ site.baseurl }}/categories#balade-et-camping">Balade et camping</a></li>
+        <li><a href="{{ site.baseurl }}/categories#été">Été</a></li>
+        <li><a href="{{ site.baseurl }}/categories#hiver">Hiver</a></li>
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
     </ul>   
 </nav>
@@ -84,10 +89,10 @@
 
     <!-- Content
     ================================================== -->
-    <div class="main-content" style="text-align: justify;">
+    <div class="main-content">
         {{ content }}
     </div>
-    
+
 <!-- 
     {% if site.mailchimp-list %}
     <div class="newsletter text-center">

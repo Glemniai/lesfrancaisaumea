@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Le Top des meilleurs restaurants d'Umeå"
+title:  "Top des meilleurs restaurants d'Umeå"
 categories: [ manger et boire ]
 tags: [ restaurant ]
-image: assets/images/articlecover/top-meilleurs-restaurants.jpeg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/q_40/v1627149957/images/articlecover/top-meilleurs-restaurants_sda7ea.jpg
 ---
-The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle.
+Vous venez d'arriver à Umeå et vous cherchez à découvrir la cuisine typiquement suédoise ? Vous êtes plutôt cuisine asiatique, végétarienne, gastronomique ou fastfood ? Si vous ne savez pas quoi manger, cette sélection 2021 est faite pour vous. Mettez-vous en appétit en découvrant les meilleurs restaurants d'Umeå. Faire un choix sera peut-être le plus difficile. 
 
 
 ### Ramen Kafe
