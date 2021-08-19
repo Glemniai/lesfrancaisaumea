@@ -7,9 +7,9 @@ image : https://res.cloudinary.com/dje8bjqno/image/upload/v1629376627/IMG_202101
 ---
 
 Je m'appelle Garance, j'ai 28 ans et suis originaire de Toulouse. Diplômée d'un Licence en Médiation et productions culturelles et d'un Master en Stratégie digitale, **j'ai travaillé pendant 7 ans dans le secteur de la culture à Paris.**  
-Riche de mes expériences, j'ai tout quitté pour partir à l'aventure et voir du pays... à peut près au même moment où le Coronavirus a décidé de faire de même.
+Riche de mes expériences, j'ai tout quitté pour partir à l'aventure et voir du pays... à peu près au même moment où le Coronavirus a décidé de faire de même.
 
-Après plusieurs péripéties, 5 pays traversés, et plus de 8000 km plus tard, mon cojoint et moi avons finalement décidés de poser nos valises **à Umeå en octobre 2020.** Je suis tout de suite tombée sous le charme de cette petite ville jeune et culturelle, où le temps semblait s'être arrêté. Après avoir créé un <a href="https://www.facebook.com/groups/lesfrancaisaumea" target="_blank">groupe Facebook</a> pour rencontrer les français de la région, et partager l'actualité de la ville, j'ai décidé de poursuivre cette démarche en écrivant un blog, dans le but de  partager mon expérience, mes bons plans et surtout toutes les informations que j'ai eu du mal à trouvé quand je me suis intallée. 
+Après plusieurs péripéties, 5 pays traversés, et plus de 8000 km plus tard, mon compagnon et moi avons finalement décidé de poser nos valises **à Umeå en octobre 2020.** Je suis tout de suite tombée sous le charme de cette petite ville jeune et culturelle, où le temps semblait s'être arrêté. Après avoir créé un <a href="https://www.facebook.com/groups/lesfrancaisaumea" target="_blank">groupe Facebook</a> pour rencontrer les français de la région, et partager l'actualité de la ville, j'ai décidé de poursuivre cette démarche en écrivant un blog, dans le but de  partager mon expérience, mes bons plans et surtout toutes les informations que j'ai eu du mal à trouver quand je me suis installée. 
 
 Bienvenue sur **Les Français à Umeå, le premier blog en français sur Umeå**, la ville la plus jeune et culturelle du nord de la Suède. 
 
@@ -19,7 +19,7 @@ Bienvenue sur **Les Français à Umeå, le premier blog en français sur Umeå**
 ## Contact
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Si vous avez la moindre question, ou souhaitez m'envoyer un message, remplissez le formulaire ci-dessous et je vous répondrais aussitôt de possible !</p>
+<p class="mb-4">Si vous avez la moindre question, ou souhaitez m'envoyer un message, remplissez le formulaire ci-dessous et je vous répondrai aussitôt de possible !</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nom, Prénom*" required>
