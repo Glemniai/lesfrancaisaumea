@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Le Musée de l'Image
-categories: [ Arts et Culture ]
-tags: [ Musée ]
+categories: [ arts et culture ]
+tags: [ musée ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/e_auto_contrast/v1629454312/images/articlecover/DSC07089_l1wlda.jpg
 ---
 
