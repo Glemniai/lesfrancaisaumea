@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La pollution de l'air à Umeå
+title:  Qu'en est-il de la pollution de l'air à Umeå ?
 categories: [ actus ]
 tags: [ écologie ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629381540/images/articlecover/DSC07083-min_ixyulw.jpg
