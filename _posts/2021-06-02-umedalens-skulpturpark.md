@@ -3,7 +3,7 @@ layout: post
 title:  Umedalens skulpturpark, un incroyable musée à ciel ouvert
 categories: [ arts et culture ]
 tags: [ musée, nature ]
-image: https://res-console.cloudinary.com/dje8bjqno/thumbnails/transform/v1/image/upload//v1629727294/aW1hZ2VzL2FydGljbGVjb3Zlci9EU0MwNzAyNl9lcWd3MTA=/drilldown
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629727294/images/articlecover/DSC07026_eqgw10.jpg
 ---
 **Allier culture et balade en forêt est aujourd'hui possible ! Découvrez le Skulpturpark, un incroyable musée à ciel ouvert, à 15 minutes du centre-ville.**
 
