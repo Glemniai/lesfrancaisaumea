@@ -523,13 +523,14 @@ img, img:hover {
 
 //share
 .share { 
-    position:fixed;left:15px;bottom:40%;z-index: 1026;
+    position:fixed;left:10px;bottom:40%;z-index: 1026;
+    font-size: 0.8em;
     text-align:center;    
     ul {
         list-style:none;
         padding-left:0;
         li {
-            margin:15px 0;
+            margin:10px 0;
             a {
                 color:$dark;
             }
