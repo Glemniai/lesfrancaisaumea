@@ -3,7 +3,7 @@ layout: post
 title:  "Top des meilleurs restaurants d'Umeå"
 categories: [ manger et boire ]
 tags: [ restaurant ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629444131/images/articlecover/jay-wennington-N_Y88TWmGwA-unsplash_zsep1j.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/jay-wennington-N_Y88TWmGwA-unsplash_zsep1j-min_bws3t2.jpg
 ---
 **Vous venez d'arriver à Umeå et vous cherchez à découvrir la cuisine typiquement suédoise ? Vous êtes plutôt cuisine asiatique, végétarienne, gastronomique ou fastfood ? Si vous ne savez pas quoi manger, cette sélection 2021 est faite pour vous. Mettez-vous en appétit en découvrant les meilleurs restaurants d'Umeå.**  
 

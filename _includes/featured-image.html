@@ -5,5 +5,10 @@
     {% else %}
     <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
     {% endif %}
+    {% if page.legend %}
+    <figcaption style="text-align:center"><span style="color:grey"><small>{{ page.legend }}</small></span></figcaption>
+    {% endif %}
 </div>
 {% endif %}
+
+

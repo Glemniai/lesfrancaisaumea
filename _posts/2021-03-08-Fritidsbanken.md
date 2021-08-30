@@ -3,7 +3,7 @@ layout: post
 title:  Fritidsbanken, un concept unique
 categories: [ bons plans ]
 tags: [ sport, vie quotidienne ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629640439/FlytvNst_RGB_lmknl4.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307533/compressed/FlytvNst_RGB-min_fjyjsd.jpg
 ---
 **Fritidsbanken c'est comme une bibliothèque mais d'équipements de sport et de loisirs. Tout le monde peut emprunter et c'est totalement gratuit.**
 

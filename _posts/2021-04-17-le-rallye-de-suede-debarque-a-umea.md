@@ -3,7 +3,7 @@ layout: post
 title:  Le rallye de Suède change de cap à cause du réchauffement climatique
 categories: [ actus ]
 tags: [ sport ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629446237/images/articlecover/RallySweden_Rally2_2019_p7crbk.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/RallySweden_Rally2_2019-min_lun7ev.jpg
 ---
 **Pour la première fois de son histoire, le mythique rallye de Suède déplace ses écuries dans une autre ville, à cause du réchauffement climatique.** 
 

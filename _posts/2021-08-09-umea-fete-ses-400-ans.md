@@ -3,10 +3,15 @@ layout: post
 title:  "1622-2022 : Umeå fête ses 400 ans"
 categories: [ actus ]
 tags: [ bons plan, arts et culture ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629651837/IMG_20210308_151242__01__01_pbdoll.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630311572/compressed/375998-min_ov33ms.jpg
+legend: Photo by Peter Steggo
 ---
 
-**Le 22 juin 2022 notre ville préférée fêtera ses 400 ans, l'occasion pour elle de mettre ses habits de lumières et de célébrer une histoire hors du commun.**
+**Le 22 juin 2022 notre ville préférée fêtera ses 400 ans, l'occasion pour elle de mettre ses habits de lumières et de célébrer son histoire hors du commun.**
+
+Située sur la côté nord-est du pays, on parle souvent de la ville d'Umeå comme étant la “capitale de la Suède du nord”. En effet, c'est la plus grande ville de la région Västerbotten et du Norrland, dernière région au nord avant le cercle polaire. Avec une des plus rapide croissance des villes de Suède et d'Europe, la population est sur le point de dépasser les 200,000 habitants d’ici 2050. 
+
+**Petit retour rapide sur 400 ans d'histoire :**
 
 **1622** : Umeå reçoit le statut officiel de ville.  
 
@@ -52,6 +57,6 @@ image: https://res.cloudinary.com/dje8bjqno/image/upload/v1629651837/IMG_2021030
 
 **2018 et 2020** : Umeå est nommée deux fois "meilleure ville sportive de Suède" par le jury d'experts de SVT Sports.  
 
-**22 juin 2022 : des événements gratuits sont prévues dans toute la ville pour célébrer les 400 ans d'histoire.**
+**22 juin 2022 : 400 ans de la ville, des événements gratuits sont prévues dans toute la ville, on a hâte !**
 
 ><a href="https://www.umea400.se/" target="_blank">Plus d'informations sur les célébrations de 2022</a>
