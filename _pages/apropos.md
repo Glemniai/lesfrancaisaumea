@@ -13,4 +13,4 @@ Après plusieurs péripéties, 5 pays traversés, et plus de 8000 km plus tard, 
 
 Ce site a pour but de partager mon expérience, mes bons plans et surtout un maximum d'informations en français, que j'ai eu du mal à trouver quand je me suis installée. Bienvenue sur **Les Français à Umeå, le premier blog en français sur Umeå**, la ville la plus jeune et culturelle du nord de la Suède. 
 
-*<small>La totalité des photos présentent sur ce site sont soumises au **droit d'auteur**. Si vous souhaitez les utiliser, veuillez me contacter. Merci de votre compréhension.<small>
+*<small>La totalité des photos présentent sur ce site sont soumises au **droit d'auteur**. Si vous souhaitez les utiliser, <a href="https://www.lesfrancaisaumea.com/contact" target="_blank">veuillez me contacter.</a> Merci de votre compréhension.<small>

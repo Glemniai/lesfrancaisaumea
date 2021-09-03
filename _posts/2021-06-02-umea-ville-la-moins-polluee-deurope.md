@@ -3,10 +3,12 @@ layout: post
 title:  Umeå, certifiée ville la moins polluée d'Europe
 categories: [ actus ]
 tags: [ écologie ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/DSC07083-min-min_euk6s9.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/umea-air-le-plus-pur-deurope.jpg "ville-la-moins-polluee-deurope"
 ---
 
-**D'après un rapport de l'Agence européenne pour l'environnement AEE, la ville d'Umeå vient d'être certifiée ville possédant l'air le plus pur d'Europe.**
+<h3>D'après un rapport de l'Agence européenne pour l'environnement AEE, la ville d'Umeå vient d'être certifiée ville avec l'air le plus pur d'Europe.</h3>
+
+*********************
 
 C'est officiel, vous ne trouverez pas un air plus pur en Europe que dans notre bien aimée ville d'Umeå. C'est en tout cas ce qu'indique <a href="https://www.eea.europa.eu/publications/air-quality-in-europe-2020-report" target="_blank">le rapport de l'Agence européenne pour l'environnement AEE paru en mai 2020</a>.  
 

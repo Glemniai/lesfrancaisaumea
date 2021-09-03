@@ -6,7 +6,7 @@ comments: false
 ---
 
 <form action="https://formspree.io/f/xjvjpjny" method="POST">    
-<p class="mb-4">Si vous avez la moindre question, ou souhaitez m'envoyer un message, remplissez le formulaire ci-dessous et je vous répondrai aussitôt de possible !</p>
+<p class="mb-4">Des questions, des propositions, des commentaires? N'hésitez pas à me contacter. </p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nom, Prénom*" required>

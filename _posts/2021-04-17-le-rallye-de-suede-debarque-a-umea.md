@@ -3,9 +3,11 @@ layout: post
 title:  Le rallye de Suède change de cap à cause du réchauffement climatique
 categories: [ actus ]
 tags: [ sport ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/RallySweden_Rally2_2019-min_lun7ev.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/rallye-de-suede-au-nord-a-umea.jpg "le-rallye-de-suède-a-umeå"
 ---
-**Pour la première fois de son histoire, le mythique rallye de Suède déplace ses écuries dans une autre ville, à cause du réchauffement climatique.** 
+<h3>Pour la première fois de son histoire, le mythique rallye de Suède déplace ses écuries plus au nord, à cause du réchauffement climatique.</h3>
+
+*********************
 
 Créé en 1973, le Championnat du Monde des Rallyes WRC a toujours organisé une étape en Suède, l’un des rares pays impliqués depuis la naissance de la compétition. Cette course marque un rendez-vous incontournable pour tous les amateurs de sensations fortes, de températures extrêmes et de nature sauvage. Située dans la région du Värmland au centre-ouest du pays depuis sa création, la compétition a cependant fait face à de récentes complications, dûes au coronavirus mais aussi et surtout dû aux conditions climatiques trop douces pour une étape dans la neige. 
 
@@ -15,7 +17,7 @@ En effet, le manque de neige dû au réchauffement climatique a menacé plusieur
 
 >«Les forces d'Umeå, au-delà de son climat hivernal stable, incluent également une excellente capacité hôtelière associée à l’emplacement du parc d'assistance au Parc des expositions de Nolia, un fort dynamisme en affaires et le potentiel d'attirer de nombreux fans. Östersund et Luleå ont présenté des dossiers solides et un engagement sans faille, mais Umeå présentait dans sa globalité un concept plus attrayant pour le Rallye de Suède (...) Se déplacer vers le nord était une prérogative étant donné les défis rencontrés ces dernières années», confirme Yves Matton, directeur Rallye de la FIA. «Il s'agit d'une occasion idéale pour s'assurer d'avoir les conditions hivernales dont nous rêvons tous pour un rallye sur neige.» ajoute-t-il.  
 
-**On a hâte, rendez-vous du 24 au 27 février 2022.**
+<h3>On a hâte, rendez-vous du 24 au 27 février 2022.</h3>
 
 <a href="https://rallysweden.com/en/shop/festival-pack-2022/" target="_blank">Accéder à la billetterie</a>
 

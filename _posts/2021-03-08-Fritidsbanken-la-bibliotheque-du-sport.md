@@ -3,11 +3,13 @@ layout: post
 title:  Fritidsbanken, un concept unique
 categories: [ bons plans ]
 tags: [ sport, vie quotidienne ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307533/compressed/FlytvNst_RGB-min_fjyjsd.jpg
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307533/compressed/Fritidsbanken-emprunter-materiel-de-sport.jpg "fritidsbanken-la-bibliothèque-du-sport"
 ---
-**Fritidsbanken c'est comme une bibliothèque mais d'équipements de sport et de loisirs. Tout le monde peut emprunter et c'est totalement gratuit.**
+<h3>Fritidsbanken c'est comme une bibliothèque mais d'équipements de sport et de loisirs. Tout le monde peut emprunter et c'est totalement gratuit.</h3>
 
-Cette association à but non lucratif récupère des équipements d'occasion, et les met à disposition de tous. Située dans le quartier d'Ålidhem, vous pouvez vous y rendre en bus à 10 minutes du centre ville. Empruntez autant de matériel que vous le souhaitez pour une durée de deux semaines, gratuitement. Seule une adresse mail vous sera demandée pour enregistrer votre emprunt. 
+*********************
+
+Cette association à but non lucratif récupère des équipements d'occasion, et les met à disposition de tous. Située dans le quartier d'Ålidhem, vous pouvez vous y rendre en bus à 10 minutes du centre-ville. Empruntez autant de matériel que vous le souhaitez pour une durée de deux semaines, gratuitement. Seule une adresse mail vous sera demandée pour enregistrer votre emprunt. 
 
 Établie à travers tout le pays depuis 2013, Fritidsbanken favorise l'augmentation du sport spontané, de la santé et du bien-être en mettant à disposition **des vélos, des raquettes et balles en tout genre, mais aussi des skis, des patins à glace, des sacs de couchages, des tentes et chaises de camping et bien d'autres encore...** Son objectif, contribuer à une société plus durable en investissant dans le recyclage intelligent. 
 
