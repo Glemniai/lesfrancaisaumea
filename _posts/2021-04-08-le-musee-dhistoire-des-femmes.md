@@ -3,7 +3,7 @@ layout: post
 title:  Le Musée de l'Histoire des Femmes
 categories: [ arts et culture ]
 tags: [ musée ]
-image : https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes.jpg "Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes"
+image : https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307534/compressed/Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes.jpg "Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes"
 legend: Photo by Kvinnohistorioskt Museum
 ---
 <h3>Inauguré en novembre 2014, le Kvinnohistorioskt Museum est le premier musée du genre en Suède. Ce musée mettant à l'honneur l'Histoire des femmes à travers le monde, la société et les cultures, se situe au premier étage du vaste centre culturel Kulturhuset Väven.</h3>

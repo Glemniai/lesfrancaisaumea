@@ -3,7 +3,7 @@ layout: post
 title:  "Top des meilleurs bars d'Umeå"
 categories: [ manger et boire ]
 tags: [ bar ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307535/compressed/top-meilleurs-bar-umea.jpg "top-des-meilleurs-bars-umea"
+image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307535/compressed/top-meilleurs-bar-umea.jpg "top-des-meilleurs-bars-umea"
 ---
 <h3>Vous cherchez où boire un coup à Umeå ? Ce top est fait pour vous.  
 Dis-moi quel bar tu fréquentes et je te dirai qui tu es. Que vous soyez pub anglais, péniche, bar sportif ou bar musical, vous trouverez forcément le bar qui vous correspond à Umeå.</h3>  

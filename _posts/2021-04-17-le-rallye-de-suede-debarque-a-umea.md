@@ -3,7 +3,7 @@ layout: post
 title:  Le rallye de Suède change de cap à cause du réchauffement climatique
 categories: [ actus ]
 tags: [ sport ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/rallye-de-suede-au-nord-a-umea.jpg "le-rallye-de-suède-a-umeå"
+image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307534/compressed/rallye-de-suede-au-nord-a-umea.jpg "le-rallye-de-suède-a-umeå"
 ---
 <h3>Pour la première fois de son histoire, le mythique rallye de Suède déplace ses écuries plus au nord, à cause du réchauffement climatique.</h3>
 
