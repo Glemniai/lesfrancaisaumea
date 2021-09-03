@@ -5,7 +5,7 @@ url: hhttps://lesfrancaisaumea.com  # the base hostname and protocol for your si
 name: "Les francais à Umeå"
 title: "Les francais à Umeå"
 description: "Bienvenue dans la ville la plus jeune et culturelle du nord de la Suède !"
-<meta name="description" content="Actualités, bons plans, sorties... informations en français sur la ville d'Umeå en Suède."/>
+# meta: "Actualités, bons plans, sorties... informations en français sur la ville d'Umeå en Suède."
 logo: 'assets/images/logo-blue-home.png'
 favicon: 'assets/images/compass-blue-whitebck-circle.png'
 google_analytics: 'UA-xxxxxxxx-1'
