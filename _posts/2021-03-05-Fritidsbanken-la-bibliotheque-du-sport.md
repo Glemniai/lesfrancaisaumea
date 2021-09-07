@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307533/compre
 
 *********************
 
-Cette association à but non lucratif récupère des équipements d'occasion, et les met à disposition de tous. Située dans le quartier d'Ålidhem, vous pouvez vous y rendre en bus à 10 minutes du centre-ville. Empruntez autant de matériel que vous le souhaitez pour une durée de deux semaines, gratuitement. Seule une adresse mail vous sera demandée pour enregistrer votre emprunt. 
+Cette association à but non lucratif récupère des équipements d'occasion, et les met à disposition de tous. Située dans le quartier étudiant d'Ålidhem, vous pouvez vous y rendre en bus à 10 minutes du centre-ville. Empruntez autant de matériel que vous le souhaitez pour une durée de deux semaines, gratuitement. Seule une adresse mail vous sera demandée pour enregistrer votre emprunt, incroyable non ?  
 
 Établie à travers tout le pays depuis 2013, Fritidsbanken favorise l'augmentation du sport spontané, de la santé et du bien-être en mettant à disposition **des vélos, des raquettes et balles en tout genre, mais aussi des skis, des patins à glace, des sacs de couchages, des tentes et chaises de camping et bien d'autres encore...** Son objectif, contribuer à une société plus durable en investissant dans le recyclage intelligent. 
 
@@ -17,7 +17,7 @@ Tout est donné par des particuliers, des organisations et des entreprises. Si v
 
 Tous les étés Fritidsbanken organise des "tournées d'été" et ouvre des stands proches des centres de loisirs et zones de baignades afin de vous permettre d'emprunter du matériel pour la journée. Retrouvez la liste de tous les emplacements sur leur site internet. 
 
-Si vous voulez comprendre à quel point la confiance tient une place importante dans la culture scandinave, allez au Fritidsbanken.  
+Si vous voulez comprendre à quel point la confiance tient une place importante dans la culture scandinave, allez au Fritidsbanken et vous saurez. 
 
 **Fritidsbanken**  
 Ålidhems centrum, Examensvägen 3, 907 30 Umeå  
