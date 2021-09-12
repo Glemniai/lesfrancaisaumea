@@ -601,7 +601,7 @@ body.active-side {
 //footer
 .footer {
     margin-top:120px;
-    padding:30px;
+    padding:20px;
     border-top:1px solid $gray-200;
     font-size:15px;
     background:#fff;
@@ -729,5 +729,38 @@ body.active-side {
         .form-control {
             height:35px;
         }
+    }
+}
+
+.footer-fru {
+    text-align: center;
+    font-size: 0.9em;
+    color: #4e4e4e;
+}
+
+
+.social-network-container {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+
+}
+
+.social-network-link {
+    
+    padding-left: 5px;
+    padding-right: 5px;
+
+    .social-network-icon {
+
+        border-radius: 30px;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #F5F5F5;
     }
 }

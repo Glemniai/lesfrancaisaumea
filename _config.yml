@@ -1,5 +1,5 @@
 domain: https://lesfrancaisaumea.com     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: hhttps://lesfrancaisaumea.com  # the base hostname and protocol for your site, e.g. http://example.com
+url: https://lesfrancaisaumea.com  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Site
 name: "Les francais à Umeå"
