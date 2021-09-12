@@ -2,8 +2,8 @@
 layout: post
 title:  Le Musée de l'Image
 categories: [ arts et culture ]
-tags: [ musee ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630311559/compressed/bildmuseet-umea.jpg "bildmuseet-musee-de-limage"
+tags: [ expo ]
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630311559/compressed/bildmuseet-umea.jpg
 legend : Photo by Robert Rösth, Umeå kommun
 ---
 <h3>Situé au bord de la rivière Ume, à seulement cinq minutes à pied du centre, le Bildmuseet est considéré comme l'un des plus beaux musées universitaires d'art contemporain du monde.</h3>

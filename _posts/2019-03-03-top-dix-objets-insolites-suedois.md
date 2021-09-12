@@ -3,7 +3,7 @@ layout: post
 title:  Top 10 des objets insolites suédois
 categories: [ insolite ]
 tags: [ vie quotidienne ]
-image: https://res.cloudinary.com/dje8bjqno/image/upload/v1631202064/compressed/objet-insolite-suede.jpg "dix-objets-insolites-suedois"
+image: https://res.cloudinary.com/dje8bjqno/image/upload/v1631202064/compressed/objet-insolite-suede.jpg
 ---
 
 <h3>En emménageant avec des suédois, je ne m’attendais pas à tomber sur ces objets, qui font pourtant partie intégrante de la culture suédoise. Pique à patates, chausse-pied, applications mobiles, découvrez dans ce top les dix objets insolites du quotidien des suédois. </h3>
