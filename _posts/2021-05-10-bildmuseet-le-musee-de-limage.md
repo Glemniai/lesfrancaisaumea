@@ -2,7 +2,7 @@
 layout: post
 title:  Le Musée de l'Image
 categories: [ arts et culture ]
-tags: [ musée ]
+tags: [ musee ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630311559/compressed/bildmuseet-umea.jpg "bildmuseet-musee-de-limage"
 legend : Photo by Robert Rösth, Umeå kommun
 ---

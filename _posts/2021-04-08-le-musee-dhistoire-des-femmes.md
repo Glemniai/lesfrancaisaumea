@@ -2,7 +2,7 @@
 layout: post
 title:  Le Musée de l'Histoire des Femmes
 categories: [ arts et culture ]
-tags: [ musée ]
+tags: [ musee ]
 image : https://res.cloudinary.com/dje8bjqno/image/upload/v1630307534/compressed/Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes.jpg "Kvinnohistorioskt-Museum-musee-de-lhistoire-des-femmes"
 legend: Photo by Kvinnohistorioskt Museum
 ---
