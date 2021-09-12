@@ -2,7 +2,7 @@
 layout: post
 title:  La réserve naturelle de Grössjön
 categories: [ nature ]
-tags: [ nature, randonnee ]
+tags: [ nature, balade ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1631002785/compressed/Grossjon-naturreservat.jpg "réserve naturelle de Grossjon"
 ---
 <h3> Parmi les nombreuses activités à Umeå, profiter de la nature environnante en fait bien évidemment partie. À quelques minutes de la ville, la réserve naturelle est située dans une zone très boisée bordée par le magnifique lac de Grössjön. Accessible facilement depuis le centre-ville, elle offre un dépaysement total et un endroit parfait pour une grillade ou un fika en pleine nature. </h3>

@@ -2,7 +2,7 @@
 layout: post
 title:  Umeå, certifiée ville la moins polluée d'Europe
 categories: [ actus ]
-tags: [ écologie ]
+tags: [ environnement ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307534/compressed/umea-air-le-plus-pur-deurope.jpg "ville-la-moins-polluee-deurope"
 ---
 

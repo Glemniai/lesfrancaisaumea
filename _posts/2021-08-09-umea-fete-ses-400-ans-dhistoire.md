@@ -2,7 +2,7 @@
 layout: post
 title:  "1622-2022 : Umeå fête ses 400 ans d'histoire"
 categories: [ actus ]
-tags: [ bons plan ]
+tags: [ bons plans ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630310228/compressed/centre-ville-umea.jpg "Panorama-du-centre-ville-d-umea"
 legend: Photo Fredrik Larsson / Visit Umeå Content Bank
 
