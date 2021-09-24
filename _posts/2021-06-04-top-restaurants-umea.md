@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630307534/compre
 
 <h2>Ramen Kafé</h2>  
 
-Le Ramen Kafé est tout simplement **le meilleur ramen** que j'ai jamais mangé. La carte est simple et efficace : choisissez entre six ramens et bouillons différents **(poulet, porc, végétarien ou végétalien, crémeux, épicé)** pour un moment de délice unique. Ils proposent également des sushis, des gyoza, des tempuras et quelques autres mets à picorer, même si la star reste bien évidemment le ramen. En hiver, profitez d’une décoration épurée et confortable et en été la terrasse est tout simplement **le dernier endroit ensoleillé de la ville.** 
+Le Ramen Kafé est tout simplement **le meilleur restaurant de ramen** où j'ai jamais mangé. La carte est simple et efficace : choisissez entre six ramens et bouillons différents **(poulet, porc, végétarien ou végétalien, crémeux, épicé)** pour un moment de délice unique. Ils proposent également des sushis, des gyoza, des tempuras et quelques autres mets à picorer, même si la star reste bien évidemment le ramen. En hiver, profitez d’une décoration épurée et confortable et en été la terrasse est tout simplement **le dernier endroit ensoleillé de la ville.** 
 Comptez 139 kr (environ 13 euros) pour les ramens, le même prix pour les plateaux de sushis et environ 129 kr ( à peu près 12 euros) pour les **gyozas et les fritures.** 
 Sur place ou à emporter, c’est définitivement le meilleur restaurant où aller si vous voulez faire voyager votre palais directement jusqu’au Japon.  
 
