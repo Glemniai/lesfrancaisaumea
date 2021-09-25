@@ -4,8 +4,8 @@ url: https://lesfrancaisaumea.com  # the base hostname and protocol for your sit
 # Site
 name: "Les francais à Umeå"
 title: "Les francais à Umeå"
-description: "Informations en français sur la ville d'Umeå en Suède"
-logo: 'assets/images/logo-blue-home.png'
+
+logo: 'assets/images/favicon-compass-blue.png'
 favicon: 'assets/images/compass-blue-whitebck-circle.png'
 google_analytics: 'G-86YR0364XE'
 disqus: 'demowebsite'

@@ -51,12 +51,15 @@
 
 .navbar-brand {
   display: inline-block;
-  padding-top: $navbar-brand-padding-y;
-  padding-bottom: $navbar-brand-padding-y;
+  // padding-top: $navbar-brand-padding-y;
+  // padding-bottom: $navbar-brand-padding-y;
   margin-right: $navbar-padding-x;
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
-  white-space: nowrap;
+  //white-space: nowrap;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 
   @include hover-focus() {
     text-decoration: none;
