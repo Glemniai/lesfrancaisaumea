@@ -6,7 +6,7 @@ tags: [ expo ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/v1630311559/compressed/bildmuseet-umea.jpg
 legend : Photo by Robert Rösth, Umeå kommun
 ---
-<h3>Situé au bord de la rivière Ume, à seulement cinq minutes à pied du centre, le Bildmuseet est considéré comme l'un des plus beaux musées universitaires d'art contemporain du monde.</h3>
+<h1>Situé au bord de la rivière Ume, à seulement cinq minutes à pied du centre, le Bildmuseet est considéré comme l'un des plus beaux musées universitaires d'art contemporain du monde.</h1>
 
 *********************
 **Bâti sur sept niveaux, ce bijou d'architecture a été conçu par Henning Larsen Architects en collaboration avec White Architects.** Née d'une réflexion poussée sur l'analyse des visiteurs, la combinaison entre lumière du jour et oeuvres d'art, et sur le parfait tempo - entre concentration et temps de pauses - il se situe entre l'école d'architecture, l'école de design et l'Académie de Beaux-Arts d'Umeå.

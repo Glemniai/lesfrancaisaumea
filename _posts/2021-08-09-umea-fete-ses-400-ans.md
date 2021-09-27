@@ -5,10 +5,8 @@ categories: [ actus ]
 tags: [ bons plans ]
 image: https://res.cloudinary.com/dje8bjqno/image/upload/q_30/v1630310228/compressed/centre-ville-umea.jpg
 legend: Photo Fredrik Larsson / Visit Umeå Content Bank
-
-
 ---
-<h3>Le 22 juin 2022 la ville d'Umeå fêtera ses 400 ans ! L'occasion pour notre ville préférée de mettre ses habits de lumières et de célébrer son histoire hors du commun.</h3>
+<h1>Le 22 juin 2022 la ville d'Umeå fêtera ses 400 ans ! L'occasion pour notre ville préférée de mettre ses habits de lumières et de célébrer son histoire hors du commun.</h1>
 
 *********************
 
