@@ -64,5 +64,5 @@ Il ne vous aura pas échappé que la Suède est souvent le pays de référence e
 <br>
 <h2>Le Hövding : le casque airbag de vélo</h2>
 
-*On vous, quels sont les objets typiquement suédois qui vous ont marqué ?* 
+*Et vous, quels sont les objets typiquement suédois qui vous ont le plus étonné ?* 
 
